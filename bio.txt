@@ -6,4 +6,4 @@ platzi
 
 También estoy en ucompensar
 
-Estoy me cambiará
+Estoy me cambiará, aunque no se si en programación de paginas web o en data science
